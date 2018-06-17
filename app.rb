@@ -11,6 +11,6 @@ get '/hometown' do
 end
 
 get '/favorite-song' do
-  "Happy!"
+  "My favorite song is Happy!"
 end
 end
